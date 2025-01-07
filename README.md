@@ -70,8 +70,6 @@ Projetos
 
 * **Telegram:** eliezertavaresdeoliveira
 
-* **E-mail:** eliezertavaresdeoliveira@gmail.com
-
 * **LinkedIn:** https://www.linkedin.com/in/eliezer-tavares-de-oliveira-625a6b40/
 
 * **Facebook:** https://www.facebook.com/eliezer.tavares.oliveira/
