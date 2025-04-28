@@ -12,7 +12,30 @@ Você pode conferir uma reportagem sobre minha trajetória, exibida na TV Unives
 
 Projetos
 
-1. Monitor de Disponibilidade de Sites
+1. AudioLangAnalyzerApp
+
+Descrição: O AudioLangAnalyzerApp é uma aplicação desktop desenvolvida em Python com wxPython, projetada para analisar arquivos de áudio (MP3). A ferramenta realiza as seguintes tarefas:
+• Validação e Pré-processamento: Verifica a validade do arquivo e o converte para um formato adequado.
+• Transcrição: Converte a fala do áudio em texto usando o modelo Whisper.
+• Detecção de Idioma: Identifica o idioma principal falado no áudio.
+• Estimativa de Fluência: Fornece uma estimativa (Básico, Intermediário, Avançado) da fluência do falante.
+• Tradução: Traduz a transcrição para o Português (caso o idioma original não seja PT-BR).
+• Geração de Relatório: Salva um relatório completo da análise em formato PDF.
+
+Tecnologias Utilizadas
+• Linguagem: Python 3.9+
+• Interface Gráfica: wxPython (com foco em acessibilidade)
+• Processamento de Áudio: pydub (requer FFmpeg)
+• Transcrição (STT): SpeechRecognition com OpenAI Whisper (modelo local 'base')
+• Detecção de Idioma: langdetect, langid, pycountry
+• Tradução: deep-translator (usando Google Translate API)
+• Geração de PDF: reportlab
+• Testes: pytest, pytest-mock, pytest-cov
+• Comunicação entre Threads: wx.lib.pubsub
+
+Repositório: https://github.com/eliezer-tavares/AudioLangAnalyzerApp
+
+2. Monitor de Disponibilidade de Sites
 
 Descrição: Este projeto é um monitor de disponibilidade de sites que verifica periodicamente o status de uma lista de sites e envia alertas por e-mail e Telegram (opcional) caso algum site fique offline.
 
@@ -20,7 +43,7 @@ Tecnologias Utilizadas: Python, Flask, FastAPI, Uvicorn, Asyncio, Requests, Aios
 
 Repositório: https://github.com/eliezer-tavares/Monitoramento-de-Sites
 
-2. Caminho Cristão Bíblico
+3. Caminho Cristão Bíblico
 
 Descrição: Uma aplicação web desenvolvida com Flask que oferece recursos para estudo e reflexão bíblica, incluindo um quiz interativo e um ranking de pontuações.
 
@@ -28,7 +51,7 @@ Tecnologias: Python, Flask, SQLite, HTML, CSS, JavaScript, bible-api.com
 
 Repositório: https://github.com/eliezer-tavares/Caminho-Cristao-Biblico
 
-3. Scanner de Vulnerabilidades em Redes
+4. Scanner de Vulnerabilidades em Redes
 
 Descrição: Um script Python para escanear vulnerabilidades em uma rede, identificando dispositivos conectados, portas abertas e consultando uma API externa para verificar vulnerabilidades conhecidas.
 
@@ -36,21 +59,13 @@ Tecnologias: Python, scapy, socket, nmap, requests
 
 Repositório: https://github.com/eliezer-tavares/Network-Vulnerability-Scanner
 
-4. Analisador de Sentimentos com Machine Learning
+5. Analisador de Sentimentos com Machine Learning
 
 Descrição: Um analisador de sentimentos simples utilizando Python e scikit-learn, com foco em acessibilidade.
 
 Tecnologias: Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
 Repositório: https://github.com/eliezer-tavares/Analisador-de-Sentimentos-com-Machine-Learning
-
-5. Simulador de Sistema Bancário Simples
-
-Descrição: Simulador de sistema bancário simples desenvolvido em C++, permitindo operações como depósito, saque, transferência e consulta de extrato.
-
-Tecnologias: C++
-
-Repositório: https://github.com/eliezer-tavares/Simulador-de-Sistema-Bancario-Simples
 
 6. BibliotecaCLI
 
