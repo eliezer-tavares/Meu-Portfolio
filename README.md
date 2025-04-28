@@ -95,8 +95,6 @@ Aiosmtplib
 
 Python-dotenv
 
-C++
-
 Java
 
 HTML
