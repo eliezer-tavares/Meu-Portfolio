@@ -33,6 +33,8 @@ Tecnologias Utilizadas
 • Testes: pytest, pytest-mock, pytest-cov
 • Comunicação entre Threads: wx.lib.pubsub
 
+Artigo sobre o projeto no Linkedin: https://www.linkedin.com/pulse/desenvolvendo-com-prop%C3%B3sito-como-criei-um-analisador-eliezer-auwcf/
+
 Repositório: https://github.com/eliezer-tavares/AudioLangAnalyzerApp
 
 2. Monitor de Disponibilidade de Sites
