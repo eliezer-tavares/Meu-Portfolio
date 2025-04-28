@@ -2,7 +2,7 @@ Meu Portfólio
 
 Sobre Mim
 
-Meu nome é Eliezer, sou um brasileiro de 40 anos que perdeu a visão aos oito anos de idade devido a um erro médico e glaucoma congênito. Apesar deste desafio, perseverei com determinação inabalável na minha carreira. No final de 2005, fui vítima de uma fraude financeira que me fez perder mais de $1.000.000,00 e quase tirou minha vida, deixando-me até hoje em uma situação financeira extremamente limitada. Mas essa experiência devastadora não me desmotivou; pelo contrário, fortaleceu minha resiliência. Minha experiência profissional, desde 2005, abrange áreas como negociação forex e intermediação de negócios.
+Meu nome é Eliezer, sou um brasileiro de 41 anos que perdeu a visão aos oito anos de idade devido a um erro médico e glaucoma congênito. Apesar deste desafio, perseverei com determinação inabalável na minha carreira. No final de 2005, fui vítima de uma fraude financeira que me fez perder mais de $1.000.000,00 e quase tirou minha vida, deixando-me até hoje em uma situação financeira extremamente limitada. Mas essa experiência devastadora não me desmotivou; pelo contrário, fortaleceu minha resiliência. Minha experiência profissional, desde 2005, abrange áreas como negociação forex e intermediação de negócios.
 
 Atualmente, estudo Engenharia da Computação na UNIVESP (Universidade Virtual do Estado de São Paulo) para expandir minhas oportunidades na área de tecnologia, com foco em programação Python e segurança cibernética (hacking ético). Busco um estágio de pelo menos 200 horas (remunerado ou não) ou um emprego fixo como Assistente de Desenvolvedor ou Desenvolvedor Júnior, ambos em regime home office. Estou aberto a analisar propostas em outras áreas também.
 
