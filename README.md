@@ -12,7 +12,15 @@ Você pode conferir uma reportagem sobre minha trajetória, exibida na TV Unives
 
 Projetos que estou desenvolvendo atualmente:
 
-1. AudioLangAnalyzerApp
+1. PrevisIA: Previsor e Guia de Acessibilidade Web
+
+Descrição: Este projeto é uma ferramenta que prevê escores de acessibilidade web usando machine learning e gera guias narrativos em linguagem natural para deficientes visuais que utilizam leitores de tela, como NVDA. Desenvolvida para a disciplina Projeto Integrador IV da graduação em Engenharia de Computação da Univesp combina análise estática e dinâmica.
+
+Tecnologias Utilizadas: Python, Flask, BeautifulSoup, Selenium, Scikit-learn, Joblib, SpeechSynthesis, Tranco
+
+Repositório: https://github.com/eliezer-tavares/previsia-acessibilidade
+
+2. AudioLangAnalyzerApp
 
 Descrição: O AudioLangAnalyzerApp é uma aplicação desktop desenvolvida em Python com wxPython, projetada para analisar arquivos de áudio (MP3). A ferramenta realiza as seguintes tarefas:
 • Validação e Pré-processamento: Verifica a validade do arquivo e o converte para um formato adequado.
@@ -37,7 +45,7 @@ Artigo sobre o projeto no Linkedin: https://www.linkedin.com/pulse/desenvolvendo
 
 Repositório: https://github.com/eliezer-tavares/AudioLangAnalyzerApp
 
-2. Monitor de Disponibilidade de Sites
+3. Monitor de Disponibilidade de Sites
 
 Descrição: Este projeto é um monitor de disponibilidade de sites que verifica periodicamente o status de uma lista de sites e envia alertas por e-mail e Telegram (opcional) caso algum site fique offline.
 
@@ -45,7 +53,7 @@ Tecnologias Utilizadas: Python, Flask, FastAPI, Uvicorn, Asyncio, Requests, Aios
 
 Repositório: https://github.com/eliezer-tavares/Monitoramento-de-Sites
 
-3. Caminho Cristão Bíblico
+4. Caminho Cristão Bíblico
 
 Descrição: Uma aplicação web desenvolvida com Flask que oferece recursos para estudo e reflexão bíblica, incluindo um quiz interativo e um ranking de pontuações.
 
@@ -53,7 +61,7 @@ Tecnologias: Python, Flask, SQLite, HTML, CSS, JavaScript, bible-api.com
 
 Repositório: https://github.com/eliezer-tavares/Caminho-Cristao-Biblico
 
-4. Scanner de Vulnerabilidades em Redes
+5. Scanner de Vulnerabilidades em Redes
 
 Descrição: Um script Python para escanear vulnerabilidades em uma rede, identificando dispositivos conectados, portas abertas e consultando uma API externa para verificar vulnerabilidades conhecidas.
 
@@ -61,21 +69,13 @@ Tecnologias: Python, scapy, socket, nmap, requests
 
 Repositório: https://github.com/eliezer-tavares/Network-Vulnerability-Scanner
 
-5. Analisador de Sentimentos com Machine Learning
+6. Analisador de Sentimentos com Machine Learning
 
 Descrição: Um analisador de sentimentos simples utilizando Python e scikit-learn, com foco em acessibilidade.
 
 Tecnologias: Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
 Repositório: https://github.com/eliezer-tavares/Analisador-de-Sentimentos-com-Machine-Learning
-
-6. BibliotecaCLI
-
-Descrição: Sistema de gerenciamento de biblioteca baseado em linha de comando, desenvolvido em Java, que permite adicionar e listar livros em um banco de dados SQLite.
-
-Tecnologias: Java, SQLite
-
-Repositório: https://github.com/eliezer-tavares/BibliotecaCLI
 
 Habilidades
 
@@ -94,8 +94,6 @@ Requests
 Aiosmtplib
 
 Python-dotenv
-
-Java
 
 HTML
 
@@ -116,3 +114,5 @@ LinkedIn: https://www.linkedin.com/in/eliezer-tavares-de-oliveira-625a6b40/
 Facebook: https://www.facebook.com/eliezer.tavares.oliveira/
 
 Instagram: https://www.instagram.com/eliezertavaresdeoliveira
+
+E-mail: contact@eliezertavaresdeoliveira.com
