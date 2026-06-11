@@ -18,7 +18,7 @@ Meus maiores objetivos são: ter independência financeira e poder dar uma vida 
 ## 🇧🇷 Projetos que estou desenvolvendo atualmente:
 
 ### 1. Audivise: Assistente de Enquadramento para Videoconferências
-**Descrição:** Sistema assistivo baseado em Internet das Coisas (IoT) e Visão Computacional, projetado para fornecer autonomia a pessoas com deficiência visual durante videoconferências. O sistema detecta a posição do rosto do usuário e fornece feedback auditivo em tempo real para auxiliar no enquadramento e centralização diante da câmera. O processamento de imagem ocorre localmente no navegador (Edge Computing) para garantir total privacidade, e a lógica de enquadramento foi verificada matematicamente usando métodos formais.
+**Descrição:** Desenvolvido de forma independente para o Projeto Integrador V da graduação em Engenharia de Computação da Univesp, este é um sistema assistivo baseado em Internet das Coisas (IoT) e Visão Computacional, projetado para fornecer autonomia a pessoas com deficiência visual durante videoconferências. O sistema detecta a posição do rosto do usuário e fornece feedback auditivo em tempo real para auxiliar no enquadramento e centralização diante da câmera. O processamento de imagem ocorre localmente no navegador (Edge Computing) para garantir total privacidade, e a lógica de enquadramento foi verificada matematicamente usando métodos formais.
 **Tecnologias Utilizadas:** Rust (Serverless Functions), HTML5, CSS3, JavaScript, MediaPipe Face Landmarker, Lean 4 (Verificação Formal), Web Speech API, Vercel.
 **Repositório:** https://github.com/eliezer-tavares/audivise
 
@@ -77,7 +77,7 @@ My main goals are: to achieve financial independence and provide a more dignifie
 ## 🇺🇸 Projects I am currently developing:
 
 ### 1. Audivise: Assistive Framing System for Videoconferences
-**Description:** An assistive system based on the Internet of Things (IoT) and Computer Vision, designed to provide autonomy to visually impaired people during video conferences. The system detects the user's face position and provides real-time audio feedback to assist with framing and centering in front of the camera. Image processing occurs locally in the browser (Edge Computing) to ensure total privacy, and the framing logic was mathematically verified using formal methods.
+**Description:** Developed independently for the Integrative Project V of the Computer Engineering degree at Univesp, this is an assistive system based on the Internet of Things (IoT) and Computer Vision, designed to provide autonomy to visually impaired people during video conferences. The system detects the user's face position and provides real-time audio feedback to assist with framing and centering in front of the camera. Image processing occurs locally in the browser (Edge Computing) to ensure total privacy, and the framing logic was mathematically verified using formal methods.
 **Technologies Used:** Rust (Serverless Functions), HTML5, CSS3, JavaScript, MediaPipe Face Landmarker, Lean 4 (Formal Verification), Web Speech API, Vercel.
 **Repository:** https://github.com/eliezer-tavares/audivise
 
